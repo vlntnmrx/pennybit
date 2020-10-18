@@ -11,11 +11,12 @@ This borad is a very stripped-down feather style bord using a Cortex-M0 by ST. T
 * Pin compatible to Adafruit(R) Feather
 
 
+![First revision production](./img/panel_board.jpg)
 
 ## Current state
-At the moment, the boards are being assembled and tested. Stay tuned for updates :smile:
+First batch is assembled and tested. No Problems found (yet) :smile:
 
-![First revision production](./img/panel_board.jpg)
+![Assembled Boards](./img/board_asm.jpg)
 
 ### Note
 The project was originally called "cheapFeather" so some files still carry this name.
